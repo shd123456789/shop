@@ -3,7 +3,7 @@
 		"secure-http" : false
 	},
 	"require" : {
-		"shop/" : "1.0.1"
+		"shop/" : "1.0.5"
 	},
 	"repositories" : [{
 		    "type" : "git",
