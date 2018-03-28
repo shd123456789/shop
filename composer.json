@@ -1,0 +1,23 @@
+{
+	"config" : {
+		"secure-http" : false
+	},
+	"require" : {
+		"wzly/lredis" : "master-dev",
+		"monolog/monolog": "^1.23",
+		"wzly/response": "master-dev",
+		"wzly/db": "master-dev"
+	},
+	"repositories" : [{
+		    "type" : "git",
+			"url" : "http://139.224.164.17:4000/chenwei/lredis.git"
+		},{
+		    "type" : "git",
+			"url" : "http://139.224.164.17:4000/chenwei/response.git"
+		},{
+		    "type" : "git",
+			"url" : "http://139.224.164.17:4000/shd/Db.git"
+		}
+
+	]
+}
