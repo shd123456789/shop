@@ -1,0 +1,13 @@
+{
+	"config" : {
+		"secure-http" : false
+	},
+	"require" : {
+		"shop/" : "test_version"
+	},
+	"repositories" : [{
+		    "type" : "git",
+			"url" : "https://github.com/shd123456789/shop.git"
+		}
+	]
+}
