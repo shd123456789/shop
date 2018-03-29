@@ -1,13 +1,13 @@
 {
-	"config" : {
-		"secure-http" : false
-	},
-	"require" : {
-		"shop/" : "1.0.5"
-	},
-	"repositories" : [{
-		    "type" : "git",
-			"url" : "https://github.com/shd123456789/shop.git"
-		}
-	]
+    "name": "shd/shop",
+    "description": "good",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shd",
+            "email": "418615796@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
 }
